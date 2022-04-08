@@ -1,10 +1,10 @@
 /*
-Escreva um programa que leia três valores com ponto flutuante de dupla precisão: A, B e C. Em seguida, calcule e mostre:
-a) a área do triângulo retângulo que tem A por base e C por altura.
-b) a área do círculo de raio C. (pi = 3.14159)
-c) a área do trapézio que tem A e B por bases e C por altura.
-d) a área do quadrado que tem lado B.
-e) a área do retângulo que tem lados A e B.
+Make a program that reads three floating point values: A, B and C. Then, calculate and show:
+a) the area of the rectangled triangle that has base A and height C.
+b) the area of the radius's circle C. (pi = 3.14159)
+c) the area of the trapezium which has A and B by base, and C by height.
+d) the area of ​​the square that has side B.
+e) the area of the rectangle that has sides A and B.
  */
 
 import java.util.*
